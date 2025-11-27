@@ -59,4 +59,70 @@ A Star Schema was created:
 
 - Dimensions: Products, Customers, States, Invoices
 
-![DataModeling](images/
+![DataModeling](images/data_modeling.JPG)
+
+**3️⃣ DAX Measures**
+Key measures created:
+
+![Measures](images/Measures.JPG)
+
+![DAXExample](images/shipping_baseline_dax.JPG)
+
+**4️⃣ Dashboard Design**
+
+The dashboard includes:
+![Dashboard_Overview](images/project-1.JPG)
+![Dashboard_Market_Basket_Analysis](images/project-2.JPG)
+![Dashboard_Shipping_Metrics](images/project-3.JPG)
+
+
+### 📈 Key Insights
+
+
+- Several product pairs have strong frequency scores → excellent cross-sell opportunities
+
+- Certain products have high sales volume but low profitability due to shipping cost
+
+- Shipping items in larger quantities reduces cost per unit
+
+- Underperforming states represent potential markets for targeted marketing
+
+### 💡 Recommendations
+
+
+**🛒 Cross-Selling Strategy**
+
+- Promote recommended items directly on product pages
+
+- Bundle frequently purchased items
+
+- Create discount offers to encourage cross-sell items
+
+**🚚 Reduce Operating Costs**
+
+- Consolidate shipments for popular combinations
+
+- Improve inventory allocation in high-performing states
+
+**📦 Customer Reach**
+
+Develop campaigns for top customer segments
+
+Improve performance in underdeveloped regions
+
+Encourage repeat purchases through personalized offers
+
+
+### 🧰 Skills Demonstrated
+
+- Power Query (Data Cleaning)
+
+- Power BI Data Modeling
+
+- DAX Measure Writing
+
+- Market Basket Analysis
+
+- Dashboard Design
+
+- Business Insights & Recommendations
