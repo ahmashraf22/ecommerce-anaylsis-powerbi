@@ -16,3 +16,21 @@ The goal of this analysis is to help the business:
 - Identify profitable products and growth opportunities
 
 ### The project includes data cleaning, modeling, DAX calculations, dashboard design, insights, and recommendations.
+
+### 📂 Dataset
+
+The dataset consists of several CSV files representing different parts of the business:
+
+- Sales / Transactions
+
+- Products
+
+- Customers
+
+- Shipping & State Information
+
+- Total Records: 24,000+ rows across all tables.
+
+These files include information about product orders, customer details, product categories, pricing, shipping costs, and geographical mapping.
+
+![Dataset](images/
